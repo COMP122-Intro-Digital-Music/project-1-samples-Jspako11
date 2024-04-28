@@ -1,19 +1,19 @@
 [
   {
     "name": "BandMusic",
-    "file": "samples/BandMusic.wav.wav",
+    "file": "samples/BandMusic.m4a",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "Birds",
-    "file": "samples/Birds.wav.wav",
+    "file": "samples/Birds.m4a",
     "bpm": "120",
     "loop": "1m"
   },
   {
     "name": "Nighttime Bugs",
-    "file": "samples/NighttimeBugs.wav.wav",
+    "file": "samples/NighttimeBugs.m4a",
     "bpm": "120",
     "loop": "1m"
   }
